@@ -5,4 +5,4 @@
 🏙️ Working and learning about **computer graphics** in my spare time <br/>
 🎮 A lifelong gamer <br/>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=orkroryx)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=dark_github)
