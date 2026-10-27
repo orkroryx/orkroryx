@@ -5,4 +5,4 @@
 🏙️ Working and learning about **computer graphics** in my spare time
 🎮 A lifelong gamer
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=shadow_red)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=orkroryx&layout=donut-vertical&langs_count=4&hide_values=true&theme=transparent)
